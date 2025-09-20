@@ -52,5 +52,5 @@ All datasets and the Power BI file are hosted on Google Drive:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/customer-segmentation-analysis.git
+   git clone https://github.com/Nafay-Aftab/customer-segmentation-analysis.git
    cd customer-segmentation-analysis
